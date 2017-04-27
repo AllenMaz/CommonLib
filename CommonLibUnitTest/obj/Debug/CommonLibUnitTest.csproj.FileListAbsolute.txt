@@ -1,0 +1,10 @@
+E:\VSWorkSpace2013\CommonLib\CommonLibUnitTest\bin\Debug\CommonLibUnitTest.dll
+E:\VSWorkSpace2013\CommonLib\CommonLibUnitTest\bin\Debug\CommonLibUnitTest.pdb
+E:\VSWorkSpace2013\CommonLib\CommonLibUnitTest\bin\Debug\AModel.dll
+E:\VSWorkSpace2013\CommonLib\CommonLibUnitTest\bin\Debug\AUtility.dll
+E:\VSWorkSpace2013\CommonLib\CommonLibUnitTest\bin\Debug\AModel.pdb
+E:\VSWorkSpace2013\CommonLib\CommonLibUnitTest\bin\Debug\AUtility.pdb
+E:\VSWorkSpace2013\CommonLib\CommonLibUnitTest\obj\Debug\CommonLibUnitTest.csprojResolveAssemblyReference.cache
+E:\VSWorkSpace2013\CommonLib\CommonLibUnitTest\obj\Debug\CommonLibUnitTest.dll
+E:\VSWorkSpace2013\CommonLib\CommonLibUnitTest\obj\Debug\CommonLibUnitTest.pdb
+E:\VSWorkSpace2013\CommonLib\CommonLibUnitTest\bin\Debug\LitJson.dll

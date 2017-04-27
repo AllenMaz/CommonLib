@@ -1,0 +1,4 @@
+E:\VSWorkSpace2013\CommonLib\AModel\bin\Debug\AModel.dll
+E:\VSWorkSpace2013\CommonLib\AModel\bin\Debug\AModel.pdb
+E:\VSWorkSpace2013\CommonLib\AModel\obj\Debug\AModel.dll
+E:\VSWorkSpace2013\CommonLib\AModel\obj\Debug\AModel.pdb

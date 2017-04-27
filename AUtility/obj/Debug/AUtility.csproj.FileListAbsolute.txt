@@ -1,0 +1,5 @@
+E:\VSWorkSpace2013\CommonLib\AUtility\bin\Debug\AUtility.dll
+E:\VSWorkSpace2013\CommonLib\AUtility\bin\Debug\AUtility.pdb
+E:\VSWorkSpace2013\CommonLib\AUtility\obj\Debug\AUtility.dll
+E:\VSWorkSpace2013\CommonLib\AUtility\obj\Debug\AUtility.pdb
+E:\VSWorkSpace2013\CommonLib\AUtility\obj\Debug\AUtility.csprojResolveAssemblyReference.cache
